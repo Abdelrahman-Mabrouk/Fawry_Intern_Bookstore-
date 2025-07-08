@@ -5,11 +5,15 @@ public abstract class Book {
     private String author;
     private String publisher;
     private String isbn;
-    public Book(String title, String author, String publisher, String isbn) {
+    private int yearOfPublication;
+    private int price;
+    public Book(String title, String author, String publisher, String isbn, int yearOfPublication,int price) {
         this.title = title;
         this.author = author;
         this.publisher = publisher;
         this.isbn = isbn;
+        this.yearOfPublication = yearOfPublication;
+        this.price = price;
 
     }
     public String getTitle() {
@@ -33,5 +37,16 @@ public abstract class Book {
     public String getIsbn() {
         return isbn;
     }
+    public int getYearOfPublication() {
+        return yearOfPublication;
+    }
+    public int getPrice() {
+        return price;
+    }
+    public void setPrice(int price) {
+        this.price = price;
+    }
+    abstract
+    public boolean isForSale();
 
 }
