@@ -3,7 +3,7 @@ package domain.book.entity;
 import domain.book.interfaces.ShowcaseBook;
 
 public class JavaShowcaseBook extends Book implements ShowcaseBook {
-    public JavaShowcaseBook(String title, String author, String publisher, String isbn, int yearOfPublication, int price) {
+    public JavaShowcaseBook(String title, String author, String publisher, String isbn, int yearOfPublication) {
         super(title, author, publisher, isbn, yearOfPublication, price);
     }
 

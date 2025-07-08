@@ -17,15 +17,19 @@ public class InventoryService {
     }
     public  void removeOldBooks(int yearsThreshold) {
         int currentYear = Calendar.getInstance().get(Calendar.YEAR);
-        for (Book book : inventory.values()) {
+        Iterator<Book> iterator = inventory.values().iterator();
+        while (iterator.hasNext()) {
+            Book book = iterator.next();
             if (currentYear - book.getYearOfPublication() > yearsThreshold) {
                 System.out.println("Removing book " + book.getTitle());
-                inventory.remove(book.getIsbn());
+                iterator.remove();
             }
         }
     }
 
-    public double buyBook(String isbn, int quantity, String email, String address) {
+
+
+    public void buyBook(String isbn, int quantity, String email, String address , boolean isShipp) {
         Book book = inventory.get(isbn);
 
         if (book == null)
@@ -39,13 +43,15 @@ public class InventoryService {
                 throw new OutOfStockException(book.getTitle());
 
             paperBook.decreaseStock(quantity);
-            new ShippingService().ship(List.of(book), address);
+            if (isShipp)
+                new ShippingService().ship(book, address);
+            else
+                System.out.println("Successfully purchased " + quantity + " copy(ies) of '" + book.getTitle() + "' for $" + book.getPrice()* quantity + ".");
 
         } else if (book instanceof EBook) {
             new MailService().send(book,email);
         }
 
-        return book.getPrice() * quantity;
     }
 
 }

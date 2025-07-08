@@ -5,7 +5,7 @@ import domain.book.interfaces.EBook;
 
 public class HeadFirstJava extends Book implements EBook {
     String fileType;
-    public HeadFirstJava(String title, String author, String publisher, String isbn, int yearOfPublication, int price, String fileType) {
+    public HeadFirstJava(String title, String author, String publisher, String isbn, int yearOfPublication, double price, String fileType) {
         super(title, author, publisher, isbn,yearOfPublication,price);
         this.fileType = fileType;
     }

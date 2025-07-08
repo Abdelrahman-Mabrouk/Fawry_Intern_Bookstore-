@@ -6,8 +6,8 @@ public abstract class Book {
     private String publisher;
     private String isbn;
     private int yearOfPublication;
-    private int price;
-    public Book(String title, String author, String publisher, String isbn, int yearOfPublication,int price) {
+    private double price;
+    public Book(String title, String author, String publisher, String isbn, int yearOfPublication,double price) {
         this.title = title;
         this.author = author;
         this.publisher = publisher;
@@ -40,7 +40,7 @@ public abstract class Book {
     public int getYearOfPublication() {
         return yearOfPublication;
     }
-    public int getPrice() {
+    public double getPrice() {
         return price;
     }
     public void setPrice(int price) {

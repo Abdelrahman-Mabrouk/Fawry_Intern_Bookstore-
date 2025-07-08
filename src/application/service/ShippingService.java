@@ -10,22 +10,19 @@ import java.util.List;
 public class ShippingService {
 
 
-    public void ship(List<Book> Books, String address){
-        if (Books instanceof PaperBook) {
-            if (Books.isEmpty()) {
-                throw new EmptyBookException();
-            }
+    public void ship(Book book, String address){
+        if (book == null) {
+            throw new EmptyBookException();
+        }
+        if (book instanceof PaperBook) {
             if (address.isEmpty()) {
                 throw new AddressEmptyException();
             }
             System.out.println("Starting shipment to: " + address);
-            for (Book item : Books) {
-                System.out.println("- Shipping: " + item.getTitle());
-            }
-            System.out.println("All items shipped successfully.");
+            System.out.println(book.getTitle() + " shipped successfully.");
         }
         else {
-            System.out.println("books must be paper book");
+            System.out.println("book must be paper book");
         }
     }
 }
