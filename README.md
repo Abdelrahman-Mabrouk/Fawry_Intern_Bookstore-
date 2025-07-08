@@ -170,7 +170,7 @@ To extend the system:
 ⛰️ UML Overview:
 ```
 
-![UML Diagram](E:\Fawry Project\Bookstore\assets\Class-Diagram.svg)
+![UML Diagram](./assets/Class-Diagram.svg)
 
 
 ---
