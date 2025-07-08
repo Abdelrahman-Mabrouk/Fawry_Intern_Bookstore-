@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1088px" preserveAspectRatio="none" style="width:1572px;height:1088px;background:#FFFFFF;" version="1.1" viewBox="0 0 1572 1088" width="1572px" zoomAndPan="magnify"><defs/><g><!--MD5=[963aa4f81ad1d8e522dd6e4e43847891]
+cluster domain.book.interfaces--><g id="cluster_domain.book.interfaces"><path d="M1365.5,36 L1552.5,36 A3.75,3.75 0 0 1 1555,38.5 L1562,58.2969 L1562.5,58.2969 A2.5,2.5 0 0 1 1565,60.7969 L1565,381.5 A2.5,2.5 0 0 1 1562.5,384 L1365.5,384 A2.5,2.5 0 0 1 1363,381.5 L1363,38.5 A2.5,2.5 0 0 1 1365.5,36 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1363" x2="1562" y1="58.2969" y2="58.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="186" x="1367" y="50.9951">domain.book.interfaces</text></g><!--MD5=[c193f9daee8b96778da1489a117bb294]
+cluster domain.book.entity--><g id="cluster_domain.book.entity"><path d="M878,6 L1030,6 A3.75,3.75 0 0 1 1032.5,8.5 L1039.5,28.2969 L1332.5,28.2969 A2.5,2.5 0 0 1 1335,30.7969 L1335,298.5 A2.5,2.5 0 0 1 1332.5,301 L878,301 A2.5,2.5 0 0 1 875.5,298.5 L875.5,8.5 A2.5,2.5 0 0 1 878,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="875.5" x2="1039.5" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="151" x="879.5" y="20.9951">domain.book.entity</text></g><!--MD5=[1d7353046b12fc7c293bb190e0d163fd]
+cluster domain.customer.entity--><g id="cluster_domain.customer.entity"><path d="M873,900 L1061,900 A3.75,3.75 0 0 1 1063.5,902.5 L1070.5,922.2969 L1071,922.2969 A2.5,2.5 0 0 1 1073.5,924.7969 L1073.5,1078.5 A2.5,2.5 0 0 1 1071,1081 L873,1081 A2.5,2.5 0 0 1 870.5,1078.5 L870.5,902.5 A2.5,2.5 0 0 1 873,900 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="870.5" x2="1070.5" y1="922.2969" y2="922.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="187" x="874.5" y="914.9951">domain.customer.entity</text></g><!--MD5=[a19671829490ffd5cbb9d1c5c8ee90ca]
+cluster domain.book.factory--><g id="cluster_domain.book.factory"><path d="M841.5,325 L1004.5,325 A3.75,3.75 0 0 1 1007,327.5 L1014,347.2969 L1102.5,347.2969 A2.5,2.5 0 0 1 1105,349.7969 L1105,635.5 A2.5,2.5 0 0 1 1102.5,638 L841.5,638 A2.5,2.5 0 0 1 839,635.5 L839,327.5 A2.5,2.5 0 0 1 841.5,325 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="839" x2="1014" y1="347.2969" y2="347.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="162" x="843" y="339.9951">domain.book.factory</text></g><!--MD5=[92c5cda3afff2ec892971c294729990d]
+cluster application.service--><g id="cluster_application.service"><path d="M399.5,662 L548.5,662 A3.75,3.75 0 0 1 551,664.5 L558,684.2969 L1105.5,684.2969 A2.5,2.5 0 0 1 1108,686.7969 L1108,873.5 A2.5,2.5 0 0 1 1105.5,876 L399.5,876 A2.5,2.5 0 0 1 397,873.5 L397,664.5 A2.5,2.5 0 0 1 399.5,662 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="397" x2="558" y1="684.2969" y2="684.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="148" x="401" y="676.9951">application.service</text></g><!--MD5=[ddc81a99e012674b1d60002d12b3bcd5]
+cluster bootstrap--><g id="cluster_bootstrap"><path d="M117.5,743 L195.5,743 A3.75,3.75 0 0 1 198,745.5 L205,765.2969 L366.5,765.2969 A2.5,2.5 0 0 1 369,767.7969 L369,855.5 A2.5,2.5 0 0 1 366.5,858 L117.5,858 A2.5,2.5 0 0 1 115,855.5 L115,745.5 A2.5,2.5 0 0 1 117.5,743 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="115" x2="205" y1="765.2969" y2="765.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="77" x="119" y="757.9951">bootstrap</text></g><!--MD5=[ad875f70bbf42faa626bcdf66a7f685e]
+class EBook--><g id="elem_EBook"><rect codeLine="7" fill="#F1F1F1" height="48" id="EBook" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="77" x="1425" y="320"/><ellipse cx="1440" cy="336" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1435.9219,331.7656 L1435.9219,329.6094 L1443.3125,329.6094 L1443.3125,331.7656 L1440.8438,331.7656 L1440.8438,339.8438 L1443.3125,339.8438 L1443.3125,342 L1435.9219,342 L1435.9219,339.8438 L1438.3906,339.8438 L1438.3906,331.7656 L1435.9219,331.7656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="45" x="1454" y="340.8467">EBook</text><line style="stroke:#181818;stroke-width:0.5;" x1="1426" x2="1501" y1="352" y2="352"/><line style="stroke:#181818;stroke-width:0.5;" x1="1426" x2="1501" y1="360" y2="360"/></g><!--MD5=[abab0b4855d86d86e261dcc9d57b4367]
+class PaperBook--><g id="elem_PaperBook"><rect codeLine="8" fill="#F1F1F1" height="48" id="PaperBook" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="1409.5" y="237"/><ellipse cx="1424.5" cy="253" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1420.4219,248.7656 L1420.4219,246.6094 L1427.8125,246.6094 L1427.8125,248.7656 L1425.3438,248.7656 L1425.3438,256.8438 L1427.8125,256.8438 L1427.8125,259 L1420.4219,259 L1420.4219,256.8438 L1422.8906,256.8438 L1422.8906,248.7656 L1420.4219,248.7656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="76" x="1438.5" y="257.8467">PaperBook</text><line style="stroke:#181818;stroke-width:0.5;" x1="1410.5" x2="1516.5" y1="269" y2="269"/><line style="stroke:#181818;stroke-width:0.5;" x1="1410.5" x2="1516.5" y1="277" y2="277"/></g><!--MD5=[70d09b013af84560914cbbbd809cb3d3]
+class ShippableBook--><g id="elem_ShippableBook"><rect codeLine="9" fill="#F1F1F1" height="48" id="ShippableBook" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="136" x="1395.5" y="154"/><ellipse cx="1410.5" cy="170" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1406.4219,165.7656 L1406.4219,163.6094 L1413.8125,163.6094 L1413.8125,165.7656 L1411.3438,165.7656 L1411.3438,173.8438 L1413.8125,173.8438 L1413.8125,176 L1406.4219,176 L1406.4219,173.8438 L1408.8906,173.8438 L1408.8906,165.7656 L1406.4219,165.7656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="104" x="1424.5" y="174.8467">ShippableBook</text><line style="stroke:#181818;stroke-width:0.5;" x1="1396.5" x2="1530.5" y1="186" y2="186"/><line style="stroke:#181818;stroke-width:0.5;" x1="1396.5" x2="1530.5" y1="194" y2="194"/></g><!--MD5=[db730a8a1e3976f59b46cad9cf10ef3a]
+class ShowcaseBook--><g id="elem_ShowcaseBook"><rect codeLine="10" fill="#F1F1F1" height="48" id="ShowcaseBook" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="139" x="1394" y="71"/><ellipse cx="1409" cy="87" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1404.9219,82.7656 L1404.9219,80.6094 L1412.3125,80.6094 L1412.3125,82.7656 L1409.8438,82.7656 L1409.8438,90.8438 L1412.3125,90.8438 L1412.3125,93 L1404.9219,93 L1404.9219,90.8438 L1407.3906,90.8438 L1407.3906,82.7656 L1404.9219,82.7656 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="107" x="1423" y="91.8467">ShowcaseBook</text><line style="stroke:#181818;stroke-width:0.5;" x1="1395" x2="1532" y1="103" y2="103"/><line style="stroke:#181818;stroke-width:0.5;" x1="1395" x2="1532" y1="111" y2="111"/></g><!--MD5=[84e3a5e42879fb3231104d3c8e592439]
+class Book--><g id="elem_Book"><rect codeLine="15" fill="#F1F1F1" height="243.5625" id="Book" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="161" x="891.5" y="41"/><ellipse cx="949.75" cy="57" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M949.8594,52.3438 L948.7031,57.4219 L951.0313,57.4219 L949.8594,52.3438 Z M948.375,50.1094 L951.3594,50.1094 L954.7188,62.5 L952.2656,62.5 L951.5,59.4375 L948.2188,59.4375 L947.4688,62.5 L945.0313,62.5 L948.375,50.1094 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="36" x="970.25" y="61.8467">Book</text><line style="stroke:#181818;stroke-width:0.5;" x1="892.5" x2="1051.5" y1="73" y2="73"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="897.5" y="89.9951">-isbn: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="897.5" y="106.292">-title: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="897.5" y="122.5889">-author: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="897.5" y="138.8857">-publisher: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="897.5" y="155.1826">-year: int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="897.5" y="171.4795">-price: double</text><line style="stroke:#181818;stroke-width:0.5;" x1="892.5" x2="1051.5" y1="178.7813" y2="178.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="897.5" y="195.7764">+getIsbn(): String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="897.5" y="212.0732">+getTitle(): String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="897.5" y="228.3701">+getAuthor(): String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="102" x="897.5" y="244.667">+getYear(): int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="897.5" y="260.9639">+getPrice(): double</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="897.5" y="277.2607">+isForSale(): boolean</text></g><!--MD5=[5e6a6907524862a1cd5cdf2a9149ca0a]
+class EBookImpl--><g id="elem_EBookImpl"><rect codeLine="30" fill="#F1F1F1" height="48" id="EBookImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="105" x="1183" y="237"/><ellipse cx="1198" cy="253" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1200.9688,258.6406 Q1200.3906,258.9375 1199.75,259.0781 Q1199.1094,259.2344 1198.4063,259.2344 Q1195.9063,259.2344 1194.5781,257.5938 Q1193.2656,255.9375 1193.2656,252.8125 Q1193.2656,249.6875 1194.5781,248.0313 Q1195.9063,246.375 1198.4063,246.375 Q1199.1094,246.375 1199.75,246.5313 Q1200.4063,246.6875 1200.9688,246.9844 L1200.9688,249.7031 Q1200.3438,249.125 1199.75,248.8594 Q1199.1563,248.5781 1198.5313,248.5781 Q1197.1875,248.5781 1196.5,249.6563 Q1195.8125,250.7188 1195.8125,252.8125 Q1195.8125,254.9063 1196.5,255.9844 Q1197.1875,257.0469 1198.5313,257.0469 Q1199.1563,257.0469 1199.75,256.7813 Q1200.3438,256.5 1200.9688,255.9219 L1200.9688,258.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="1212" y="257.8467">EBookImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="1184" x2="1287" y1="269" y2="269"/><line style="stroke:#181818;stroke-width:0.5;" x1="1184" x2="1287" y1="277" y2="277"/></g><!--MD5=[106f6e0c2c038a503328e5fb69c22ba2]
+class PaperBookImpl--><g id="elem_PaperBookImpl"><rect codeLine="31" fill="#F1F1F1" height="48" id="PaperBookImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="136" x="1167.5" y="154"/><ellipse cx="1182.5" cy="170" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1185.4688,175.6406 Q1184.8906,175.9375 1184.25,176.0781 Q1183.6094,176.2344 1182.9063,176.2344 Q1180.4063,176.2344 1179.0781,174.5938 Q1177.7656,172.9375 1177.7656,169.8125 Q1177.7656,166.6875 1179.0781,165.0313 Q1180.4063,163.375 1182.9063,163.375 Q1183.6094,163.375 1184.25,163.5313 Q1184.9063,163.6875 1185.4688,163.9844 L1185.4688,166.7031 Q1184.8438,166.125 1184.25,165.8594 Q1183.6563,165.5781 1183.0313,165.5781 Q1181.6875,165.5781 1181,166.6563 Q1180.3125,167.7188 1180.3125,169.8125 Q1180.3125,171.9063 1181,172.9844 Q1181.6875,174.0469 1183.0313,174.0469 Q1183.6563,174.0469 1184.25,173.7813 Q1184.8438,173.5 1185.4688,172.9219 L1185.4688,175.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="1196.5" y="174.8467">PaperBookImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="1168.5" x2="1302.5" y1="186" y2="186"/><line style="stroke:#181818;stroke-width:0.5;" x1="1168.5" x2="1302.5" y1="194" y2="194"/></g><!--MD5=[3bc3738b46df6e2b1eb7a6882d446164]
+class ShowcaseBookImpl--><g id="elem_ShowcaseBookImpl"><rect codeLine="32" fill="#F1F1F1" height="48" id="ShowcaseBookImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="167" x="1152" y="71"/><ellipse cx="1167" cy="87" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1169.9688,92.6406 Q1169.3906,92.9375 1168.75,93.0781 Q1168.1094,93.2344 1167.4063,93.2344 Q1164.9063,93.2344 1163.5781,91.5938 Q1162.2656,89.9375 1162.2656,86.8125 Q1162.2656,83.6875 1163.5781,82.0313 Q1164.9063,80.375 1167.4063,80.375 Q1168.1094,80.375 1168.75,80.5313 Q1169.4063,80.6875 1169.9688,80.9844 L1169.9688,83.7031 Q1169.3438,83.125 1168.75,82.8594 Q1168.1563,82.5781 1167.5313,82.5781 Q1166.1875,82.5781 1165.5,83.6563 Q1164.8125,84.7188 1164.8125,86.8125 Q1164.8125,88.9063 1165.5,89.9844 Q1166.1875,91.0469 1167.5313,91.0469 Q1168.1563,91.0469 1168.75,90.7813 Q1169.3438,90.5 1169.9688,89.9219 L1169.9688,92.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="1181" y="91.8467">ShowcaseBookImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="1153" x2="1318" y1="103" y2="103"/><line style="stroke:#181818;stroke-width:0.5;" x1="1153" x2="1318" y1="111" y2="111"/></g><!--MD5=[2ce0c9fb7f55b1e256ab28a8ea6b25ec]
+class Customer--><g id="elem_Customer"><rect codeLine="37" fill="#F1F1F1" height="129.4844" id="Customer" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="163" x="890.5" y="935.5"/><ellipse cx="933.85" cy="951.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M936.8188,957.1406 Q936.2406,957.4375 935.6,957.5781 Q934.9594,957.7344 934.2563,957.7344 Q931.7563,957.7344 930.4281,956.0938 Q929.1156,954.4375 929.1156,951.3125 Q929.1156,948.1875 930.4281,946.5313 Q931.7563,944.875 934.2563,944.875 Q934.9594,944.875 935.6,945.0313 Q936.2563,945.1875 936.8188,945.4844 L936.8188,948.2031 Q936.1938,947.625 935.6,947.3594 Q935.0063,947.0781 934.3813,947.0781 Q933.0375,947.0781 932.35,948.1563 Q931.6625,949.2188 931.6625,951.3125 Q931.6625,953.4063 932.35,954.4844 Q933.0375,955.5469 934.3813,955.5469 Q935.0063,955.5469 935.6,955.2813 Q936.1938,955 936.8188,954.4219 L936.8188,957.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="954.15" y="956.3467">Customer</text><line style="stroke:#181818;stroke-width:0.5;" x1="891.5" x2="1052.5" y1="967.5" y2="967.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="896.5" y="984.4951">-name: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="896.5" y="1000.792">-email: String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="896.5" y="1017.0889">-address: String</text><line style="stroke:#181818;stroke-width:0.5;" x1="891.5" x2="1052.5" y1="1024.3906" y2="1024.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="896.5" y="1041.3857">+getEmail(): String</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="896.5" y="1057.6826">+getAddress(): String</text></g><!--MD5=[e574238398dbe09b41b4e9634c9d6dd8]
+class EBookFactory--><g id="elem_EBookFactory"><rect codeLine="48" fill="#F1F1F1" height="64.2969" id="EBookFactory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="172" x="886" y="558"/><ellipse cx="921.25" cy="574" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M924.2188,579.6406 Q923.6406,579.9375 923,580.0781 Q922.3594,580.2344 921.6563,580.2344 Q919.1563,580.2344 917.8281,578.5938 Q916.5156,576.9375 916.5156,573.8125 Q916.5156,570.6875 917.8281,569.0313 Q919.1563,567.375 921.6563,567.375 Q922.3594,567.375 923,567.5313 Q923.6563,567.6875 924.2188,567.9844 L924.2188,570.7031 Q923.5938,570.125 923,569.8594 Q922.4063,569.5781 921.7813,569.5781 Q920.4375,569.5781 919.75,570.6563 Q919.0625,571.7188 919.0625,573.8125 Q919.0625,575.9063 919.75,576.9844 Q920.4375,578.0469 921.7813,578.0469 Q922.4063,578.0469 923,577.7813 Q923.5938,577.5 924.2188,576.9219 L924.2188,579.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="939.75" y="578.8467">EBookFactory</text><line style="stroke:#181818;stroke-width:0.5;" x1="887" x2="1057" y1="590" y2="590"/><line style="stroke:#181818;stroke-width:0.5;" x1="887" x2="1057" y1="598" y2="598"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="160" x="892" y="614.9951">+create(...): EBookImpl</text></g><!--MD5=[ecfaafb6877773d69dd719434ad562a3]
+class PaperBookFactory--><g id="elem_PaperBookFactory"><rect codeLine="51" fill="#F1F1F1" height="64.2969" id="PaperBookFactory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="203" x="870.5" y="459"/><ellipse cx="905.75" cy="475" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M908.7188,480.6406 Q908.1406,480.9375 907.5,481.0781 Q906.8594,481.2344 906.1563,481.2344 Q903.6563,481.2344 902.3281,479.5938 Q901.0156,477.9375 901.0156,474.8125 Q901.0156,471.6875 902.3281,470.0313 Q903.6563,468.375 906.1563,468.375 Q906.8594,468.375 907.5,468.5313 Q908.1563,468.6875 908.7188,468.9844 L908.7188,471.7031 Q908.0938,471.125 907.5,470.8594 Q906.9063,470.5781 906.2813,470.5781 Q904.9375,470.5781 904.25,471.6563 Q903.5625,472.7188 903.5625,474.8125 Q903.5625,476.9063 904.25,477.9844 Q904.9375,479.0469 906.2813,479.0469 Q906.9063,479.0469 907.5,478.7813 Q908.0938,478.5 908.7188,477.9219 L908.7188,480.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="924.25" y="479.8467">PaperBookFactory</text><line style="stroke:#181818;stroke-width:0.5;" x1="871.5" x2="1072.5" y1="491" y2="491"/><line style="stroke:#181818;stroke-width:0.5;" x1="871.5" x2="1072.5" y1="499" y2="499"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="876.5" y="515.9951">+create(...): PaperBookImpl</text></g><!--MD5=[7aee9ab6ce1b3ef9da0de11cc418536c]
+class ShowcaseBookFactory--><g id="elem_ShowcaseBookFactory"><rect codeLine="54" fill="#F1F1F1" height="64.2969" id="ShowcaseBookFactory" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="234" x="855" y="360"/><ellipse cx="890.25" cy="376" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M893.2188,381.6406 Q892.6406,381.9375 892,382.0781 Q891.3594,382.2344 890.6563,382.2344 Q888.1563,382.2344 886.8281,380.5938 Q885.5156,378.9375 885.5156,375.8125 Q885.5156,372.6875 886.8281,371.0313 Q888.1563,369.375 890.6563,369.375 Q891.3594,369.375 892,369.5313 Q892.6563,369.6875 893.2188,369.9844 L893.2188,372.7031 Q892.5938,372.125 892,371.8594 Q891.4063,371.5781 890.7813,371.5781 Q889.4375,371.5781 888.75,372.6563 Q888.0625,373.7188 888.0625,375.8125 Q888.0625,377.9063 888.75,378.9844 Q889.4375,380.0469 890.7813,380.0469 Q891.4063,380.0469 892,379.7813 Q892.5938,379.5 893.2188,378.9219 L893.2188,381.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="908.75" y="380.8467">ShowcaseBookFactory</text><line style="stroke:#181818;stroke-width:0.5;" x1="856" x2="1088" y1="392" y2="392"/><line style="stroke:#181818;stroke-width:0.5;" x1="856" x2="1088" y1="400" y2="400"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="222" x="861" y="416.9951">+create(...): ShowcaseBookImpl</text></g><!--MD5=[4846865c26155cd81ef066a50487b53b]
+class InventoryService--><g id="elem_InventoryService"><rect codeLine="61" fill="#F1F1F1" height="96.8906" id="InventoryService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="379" x="413" y="761.5"/><ellipse cx="541.75" cy="777.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M544.7188,783.1406 Q544.1406,783.4375 543.5,783.5781 Q542.8594,783.7344 542.1563,783.7344 Q539.6563,783.7344 538.3281,782.0938 Q537.0156,780.4375 537.0156,777.3125 Q537.0156,774.1875 538.3281,772.5313 Q539.6563,770.875 542.1563,770.875 Q542.8594,770.875 543.5,771.0313 Q544.1563,771.1875 544.7188,771.4844 L544.7188,774.2031 Q544.0938,773.625 543.5,773.3594 Q542.9063,773.0781 542.2813,773.0781 Q540.9375,773.0781 540.25,774.1563 Q539.5625,775.2188 539.5625,777.3125 Q539.5625,779.4063 540.25,780.4844 Q540.9375,781.5469 542.2813,781.5469 Q542.9063,781.5469 543.5,781.2813 Q544.0938,781 544.7188,780.4219 L544.7188,783.1406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="562.25" y="782.3467">InventoryService</text><line style="stroke:#181818;stroke-width:0.5;" x1="414" x2="791" y1="793.5" y2="793.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="414" x2="791" y1="801.5" y2="801.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="419" y="818.4951">+addBook(Book): void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="340" x="419" y="834.792">+buyBook(isbn, quantity, email, address): double</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="367" x="419" y="851.0889">+removeOutdatedBooks(threshold: int): List&lt;Book&gt;</text></g><!--MD5=[c3281d27c7d938d6edda540c734a07e8]
+class MailService--><g id="elem_MailService"><rect codeLine="67" fill="#F1F1F1" height="64.2969" id="MailService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="195" x="874.5" y="796"/><ellipse cx="929.75" cy="812" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M932.7188,817.6406 Q932.1406,817.9375 931.5,818.0781 Q930.8594,818.2344 930.1563,818.2344 Q927.6563,818.2344 926.3281,816.5938 Q925.0156,814.9375 925.0156,811.8125 Q925.0156,808.6875 926.3281,807.0313 Q927.6563,805.375 930.1563,805.375 Q930.8594,805.375 931.5,805.5313 Q932.1563,805.6875 932.7188,805.9844 L932.7188,808.7031 Q932.0938,808.125 931.5,807.8594 Q930.9063,807.5781 930.2813,807.5781 Q928.9375,807.5781 928.25,808.6563 Q927.5625,809.7188 927.5625,811.8125 Q927.5625,813.9063 928.25,814.9844 Q928.9375,816.0469 930.2813,816.0469 Q930.9063,816.0469 931.5,815.7813 Q932.0938,815.5 932.7188,814.9219 L932.7188,817.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="950.25" y="816.8467">MailService</text><line style="stroke:#181818;stroke-width:0.5;" x1="875.5" x2="1068.5" y1="828" y2="828"/><line style="stroke:#181818;stroke-width:0.5;" x1="875.5" x2="1068.5" y1="836" y2="836"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="880.5" y="852.9951">+send(EBook, email): void</text></g><!--MD5=[7755cdbe580d9f9d37dd5c46014c45b9]
+class ShippingService--><g id="elem_ShippingService"><rect codeLine="71" fill="#F1F1F1" height="64.2969" id="ShippingService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="240" x="852" y="697"/><ellipse cx="912.75" cy="713" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M915.7188,718.6406 Q915.1406,718.9375 914.5,719.0781 Q913.8594,719.2344 913.1563,719.2344 Q910.6563,719.2344 909.3281,717.5938 Q908.0156,715.9375 908.0156,712.8125 Q908.0156,709.6875 909.3281,708.0313 Q910.6563,706.375 913.1563,706.375 Q913.8594,706.375 914.5,706.5313 Q915.1563,706.6875 915.7188,706.9844 L915.7188,709.7031 Q915.0938,709.125 914.5,708.8594 Q913.9063,708.5781 913.2813,708.5781 Q911.9375,708.5781 911.25,709.6563 Q910.5625,710.7188 910.5625,712.8125 Q910.5625,714.9063 911.25,715.9844 Q911.9375,717.0469 913.2813,717.0469 Q913.9063,717.0469 914.5,716.7813 Q915.0938,716.5 915.7188,715.9219 L915.7188,718.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="933.25" y="717.8467">ShippingService</text><line style="stroke:#181818;stroke-width:0.5;" x1="853" x2="1091" y1="729" y2="729"/><line style="stroke:#181818;stroke-width:0.5;" x1="853" x2="1091" y1="737" y2="737"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="228" x="858" y="753.9951">+ship(PaperBook, address): void</text></g><!--MD5=[853dedca5efcfe2001ceb5ad7508856b]
+class QuantumBookstoreFullTest--><g id="elem_QuantumBookstoreFullTest"><rect codeLine="78" fill="#F1F1F1" height="64.2969" id="QuantumBookstoreFullTest" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="222" x="131" y="778"/><ellipse cx="146" cy="794" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M148.9688,799.6406 Q148.3906,799.9375 147.75,800.0781 Q147.1094,800.2344 146.4063,800.2344 Q143.9063,800.2344 142.5781,798.5938 Q141.2656,796.9375 141.2656,793.8125 Q141.2656,790.6875 142.5781,789.0313 Q143.9063,787.375 146.4063,787.375 Q147.1094,787.375 147.75,787.5313 Q148.4063,787.6875 148.9688,787.9844 L148.9688,790.7031 Q148.3438,790.125 147.75,789.8594 Q147.1563,789.5781 146.5313,789.5781 Q145.1875,789.5781 144.5,790.6563 Q143.8125,791.7188 143.8125,793.8125 Q143.8125,795.9063 144.5,796.9844 Q145.1875,798.0469 146.5313,798.0469 Q147.1563,798.0469 147.75,797.7813 Q148.3438,797.5 148.9688,796.9219 L148.9688,799.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="190" x="160" y="798.8467">QuantumBookstoreFullTest</text><line style="stroke:#181818;stroke-width:0.5;" x1="132" x2="352" y1="810" y2="810"/><line style="stroke:#181818;stroke-width:0.5;" x1="132" x2="352" y1="818" y2="818"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="137" y="834.9951">+run(): void</text></g><!--MD5=[84718776d214be480e4c259efcb737fc]
+class Main--><g id="elem_Main"><rect codeLine="84" fill="#F1F1F1" height="48" id="Main" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="64" x="7" y="786"/><ellipse cx="22" cy="802" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M24.9688,807.6406 Q24.3906,807.9375 23.75,808.0781 Q23.1094,808.2344 22.4063,808.2344 Q19.9063,808.2344 18.5781,806.5938 Q17.2656,804.9375 17.2656,801.8125 Q17.2656,798.6875 18.5781,797.0313 Q19.9063,795.375 22.4063,795.375 Q23.1094,795.375 23.75,795.5313 Q24.4063,795.6875 24.9688,795.9844 L24.9688,798.7031 Q24.3438,798.125 23.75,797.8594 Q23.1563,797.5781 22.5313,797.5781 Q21.1875,797.5781 20.5,798.6563 Q19.8125,799.7188 19.8125,801.8125 Q19.8125,803.9063 20.5,804.9844 Q21.1875,806.0469 22.5313,806.0469 Q23.1563,806.0469 23.75,805.7813 Q24.3438,805.5 24.9688,804.9219 L24.9688,807.6406 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="36" y="806.8467">Main</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="70" y1="818" y2="818"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="70" y1="826" y2="826"/></g><!--MD5=[f120fa3c19cc74662a1a6f445d502779]
+reverse link Book to EBookImpl--><g id="link_Book_EBookImpl"><path codeLine="88" d="M1072.85,261 C1072.85,261 1182.67,261 1182.67,261 " fill="none" id="Book-backto-EBookImpl" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1072.85,268,1052.85,261,1072.85,254,1072.85,268" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b57b3df125d4b6f4c4f02705226cf7b8]
+reverse link Book to PaperBookImpl--><g id="link_Book_PaperBookImpl"><path codeLine="89" d="M1072.85,178 C1072.85,178 1167.23,178 1167.23,178 " fill="none" id="Book-backto-PaperBookImpl" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1072.85,185,1052.85,178,1072.85,171,1072.85,185" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d2e2fa064f3ccbcc7e9d99bec7854a9e]
+reverse link Book to ShowcaseBookImpl--><g id="link_Book_ShowcaseBookImpl"><path codeLine="90" d="M1072.85,95 C1072.85,95 1151.61,95 1151.61,95 " fill="none" id="Book-backto-ShowcaseBookImpl" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1072.85,102,1052.85,95,1072.85,88,1072.85,102" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6a40fc805fe6d07b4df50f2e9d01515c]
+link EBookImpl to EBook--><g id="link_EBookImpl_EBook"><path codeLine="93" d="M1253,285.13 C1253,308.36 1253,340 1253,340 C1253,340 1404.89,340 1404.89,340 " fill="none" id="EBookImpl-to-EBook" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1404.89,333,1424.89,340,1404.89,347,1404.89,333" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[72221740c16916c7925a49ea7f1879d9]
+link PaperBookImpl to PaperBook--><g id="link_PaperBookImpl_PaperBook"><path codeLine="94" d="M1296,202.01 C1296,226.52 1296,261 1296,261 C1296,261 1389.12,261 1389.12,261 " fill="none" id="PaperBookImpl-to-PaperBook" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1389.12,254,1409.12,261,1389.12,268,1389.12,254" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1437de2515757441abbfe78d196c7d00]
+link PaperBookImpl to ShippableBook--><g id="link_PaperBookImpl_ShippableBook"><path codeLine="95" d="M1303.6,178 C1303.6,178 1375.36,178 1375.36,178 " fill="none" id="PaperBookImpl-to-ShippableBook" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1375.36,171,1395.36,178,1375.36,185,1375.36,171" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ac9c189446fe581ceccf2cedf6b4f73c]
+link ShowcaseBookImpl to ShowcaseBook--><g id="link_ShowcaseBookImpl_ShowcaseBook"><path codeLine="96" d="M1319.1,95 C1319.1,95 1373.75,95 1373.75,95 " fill="none" id="ShowcaseBookImpl-to-ShowcaseBook" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1373.75,88,1393.75,95,1373.75,102,1373.75,88" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f32c38e25af111e3d088287c526aa6bd]
+link EBookFactory to EBookImpl--><g id="link_EBookFactory_EBookImpl"><path codeLine="99" d="M1058.04,590 C1128.98,590 1218,590 1218,590 C1218,590 1218,290.19 1218,290.19 " fill="none" id="EBookFactory-to-EBookImpl" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1218,285.19,1214,294.19,1218,290.19,1222,294.19,1218,285.19" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="1169" y="533.1469">creates</text></g><!--MD5=[9bf214f0fb47345538a8f8d12210a181]
+link PaperBookFactory to PaperBookImpl--><g id="link_PaperBookFactory_PaperBookImpl"><path codeLine="100" d="M1073.7,491 C1124.8,491 1176,491 1176,491 C1176,491 1176,207.04 1176,207.04 " fill="none" id="PaperBookFactory-to-PaperBookImpl" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1176,202.04,1172,211.04,1176,207.04,1180,211.04,1176,202.04" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="1127" y="413.2369">creates</text></g><!--MD5=[67d2eb7a6f2457bed27c6a8f3b00461b]
+link ShowcaseBookFactory to ShowcaseBookImpl--><g id="link_ShowcaseBookFactory_ShowcaseBookImpl"><path codeLine="101" d="M1089.19,364 C1127.31,364 1160,364 1160,364 C1160,364 1160,124.35 1160,124.35 " fill="none" id="ShowcaseBookFactory-to-ShowcaseBookImpl" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1160,119.35,1156,128.35,1160,124.35,1164,128.35,1160,119.35" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="48" x="1111" y="292.6469">creates</text></g><!--MD5=[74e968e78ce2a3bf787bd8edb5850640]
+link InventoryService to Book--><g id="link_InventoryService_Book"><path codeLine="104" d="M603,761.41 C603,617.53 603,203.67 603,203.67 C603,203.67 886.48,203.67 886.48,203.67 " fill="none" id="InventoryService-to-Book" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="891.48,203.67,882.48,199.67,886.48,203.67,882.48,207.67,891.48,203.67" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cd68d73896e22ee1df8d820185096110]
+link InventoryService to MailService--><g id="link_InventoryService_MailService"><path codeLine="105" d="M792.12,827.25 C792.12,827.25 869.04,827.25 869.04,827.25 " fill="none" id="InventoryService-to-MailService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="874.04,827.25,865.04,823.25,869.04,827.25,865.04,831.25,874.04,827.25" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[31e078b2f0a133055c8eb945aed8f1f2]
+link InventoryService to ShippingService--><g id="link_InventoryService_ShippingService"><path codeLine="106" d="M792.2,778.75 C832.92,778.75 864,778.75 864,778.75 C864,778.75 864,766.07 864,766.07 " fill="none" id="InventoryService-to-ShippingService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="864,761.07,860,770.07,864,766.07,868,770.07,864,761.07" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3a24dfdce8b490a535f0c455485d096c]
+link InventoryService to Customer--><g id="link_InventoryService_Customer"><path codeLine="107" d="M603,858.74 C603,908.5 603,978.5 603,978.5 C603,978.5 885.11,978.5 885.11,978.5 " fill="none" id="InventoryService-to-Customer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="890.11,978.5,881.11,974.5,885.11,978.5,881.11,982.5,890.11,978.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[367ccae0e849c0098573d79eb71d1257]
+link MailService to EBook--><g id="link_MailService_EBook"><path codeLine="111" d="M1069.79,828 C1213.27,828 1464,828 1464,828 C1464,828 1464,373 1464,373 " fill="none" id="MailService-to-EBook" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1464,368,1460,377,1464,373,1468,377,1464,368" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[93cfba76a931ce446540e90c7952e89d]
+link ShippingService to PaperBook--><g id="link_ShippingService_PaperBook"><path codeLine="112" d="M1092.11,729 C1224.21,729 1418,729 1418,729 C1418,729 1418,290.18 1418,290.18 " fill="none" id="ShippingService-to-PaperBook" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1418,285.18,1414,294.18,1418,290.18,1422,294.18,1418,285.18" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c4cfbd0b9f60b6549682a9ebca2895aa]
+link QuantumBookstoreFullTest to InventoryService--><g id="link_QuantumBookstoreFullTest_InventoryService"><path codeLine="115" d="M353.1,810 C353.1,810 407.79,810 407.79,810 " fill="none" id="QuantumBookstoreFullTest-to-InventoryService" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="412.79,810,403.79,806,407.79,810,403.79,814,412.79,810" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d69a3a2b3dceba9c29948893f88cbc2b]
+link QuantumBookstoreFullTest to Customer--><g id="link_QuantumBookstoreFullTest_Customer"><path codeLine="116" d="M242,842.12 C242,901.29 242,1021.5 242,1021.5 C242,1021.5 885.38,1021.5 885.38,1021.5 " fill="none" id="QuantumBookstoreFullTest-to-Customer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="890.38,1021.5,881.38,1017.5,885.38,1021.5,881.38,1025.5,890.38,1021.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[69bd1d27d3165201c9dd3073fab89fb6]
+link QuantumBookstoreFullTest to Book--><g id="link_QuantumBookstoreFullTest_Book"><path codeLine="117" d="M242,777.75 C242,641.8 242,122.33 242,122.33 C242,122.33 886.44,122.33 886.44,122.33 " fill="none" id="QuantumBookstoreFullTest-to-Book" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="891.44,122.33,882.44,118.33,886.44,122.33,882.44,126.33,891.44,122.33" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[66f8ef68842725ae279fd5f11ea39697]
+link Main to QuantumBookstoreFullTest--><g id="link_Main_QuantumBookstoreFullTest"><path codeLine="119" d="M71.17,810 C71.17,810 125.83,810 125.83,810 " fill="none" id="Main-to-QuantumBookstoreFullTest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="130.83,810,121.83,806,125.83,810,121.83,814,130.83,810" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c03b0d856b9dcf03c6c1489a1620a85c]
+@startuml
+skinparam classAttributeIconSize 0
+left to right direction
+skinparam linetype ortho
+
+' ========= Interfaces =========
+package "domain.book.interfaces" {
+  interface EBook
+  interface PaperBook
+  interface ShippableBook
+  interface ShowcaseBook
+}
+
+' ========= Abstract Book =========
+package "domain.book.entity" {
+  abstract class Book {
+    -isbn: String
+    -title: String
+    -author: String
+    -publisher: String
+    -year: int
+    -price: double
+    +getIsbn(): String
+    +getTitle(): String
+    +getAuthor(): String
+    +getYear(): int
+    +getPrice(): double
+    +isForSale(): boolean
+  }
+
+  class EBookImpl
+  class PaperBookImpl
+  class ShowcaseBookImpl
+}
+
+' ========= Customer =========
+package "domain.customer.entity" {
+  class Customer {
+    -name: String
+    -email: String
+    -address: String
+    +getEmail(): String
+    +getAddress(): String
+  }
+}
+
+' ========= Factories =========
+package "domain.book.factory" {
+  class EBookFactory {
+    +create(...): EBookImpl
+  }
+  class PaperBookFactory {
+    +create(...): PaperBookImpl
+  }
+  class ShowcaseBookFactory {
+    +create(...): ShowcaseBookImpl
+  }
+}
+
+' ========= Services =========
+package "application.service" {
+  class InventoryService {
+    +addBook(Book): void
+    +buyBook(isbn, quantity, email, address): double
+    +removeOutdatedBooks(threshold: int): List<Book>
+  }
+
+  class MailService {
+    +send(EBook, email): void
+  }
+
+  class ShippingService {
+    +ship(PaperBook, address): void
+  }
+}
+
+' ========= Bootstrap Test =========
+package "bootstrap" {
+  class QuantumBookstoreFullTest{
+  +run(): void
+  }
+}
+
+' ========= Main =========
+class Main
+
+' ========= Relationships =========
+' Inheritance
+Book <|- - EBookImpl
+Book <|- - PaperBookImpl
+Book <|- - ShowcaseBookImpl
+
+' Interface Implementations
+EBookImpl ..|> EBook
+PaperBookImpl ..|> PaperBook
+PaperBookImpl ..|> ShippableBook
+ShowcaseBookImpl ..|> ShowcaseBook
+
+' Factories Create
+EBookFactory - -> EBookImpl : creates
+PaperBookFactory - -> PaperBookImpl : creates
+ShowcaseBookFactory - -> ShowcaseBookImpl : creates
+
+' InventoryService Depends on
+InventoryService - -> Book
+InventoryService - -> MailService
+InventoryService - -> ShippingService
+InventoryService - -> Customer
+
+
+' Mail & Shipping
+MailService - -> EBook
+ShippingService - -> PaperBook
+
+' Test uses
+QuantumBookstoreFullTest - -> InventoryService
+QuantumBookstoreFullTest - -> Customer
+QuantumBookstoreFullTest - -> Book
+
+Main - -> QuantumBookstoreFullTest
+@enduml
+
+@startuml
+skinparam classAttributeIconSize 0
+left to right direction
+skinparam linetype ortho
+
+package "domain.book.interfaces" {
+  interface EBook
+  interface PaperBook
+  interface ShippableBook
+  interface ShowcaseBook
+}
+
+package "domain.book.entity" {
+  abstract class Book {
+    -isbn: String
+    -title: String
+    -author: String
+    -publisher: String
+    -year: int
+    -price: double
+    +getIsbn(): String
+    +getTitle(): String
+    +getAuthor(): String
+    +getYear(): int
+    +getPrice(): double
+    +isForSale(): boolean
+  }
+
+  class EBookImpl
+  class PaperBookImpl
+  class ShowcaseBookImpl
+}
+
+package "domain.customer.entity" {
+  class Customer {
+    -name: String
+    -email: String
+    -address: String
+    +getEmail(): String
+    +getAddress(): String
+  }
+}
+
+package "domain.book.factory" {
+  class EBookFactory {
+    +create(...): EBookImpl
+  }
+  class PaperBookFactory {
+    +create(...): PaperBookImpl
+  }
+  class ShowcaseBookFactory {
+    +create(...): ShowcaseBookImpl
+  }
+}
+
+package "application.service" {
+  class InventoryService {
+    +addBook(Book): void
+    +buyBook(isbn, quantity, email, address): double
+    +removeOutdatedBooks(threshold: int): List<Book>
+  }
+
+  class MailService {
+    +send(EBook, email): void
+  }
+
+  class ShippingService {
+    +ship(PaperBook, address): void
+  }
+}
+
+package "bootstrap" {
+  class QuantumBookstoreFullTest{
+  +run(): void
+  }
+}
+
+class Main
+
+Book <|- - EBookImpl
+Book <|- - PaperBookImpl
+Book <|- - ShowcaseBookImpl
+
+EBookImpl ..|> EBook
+PaperBookImpl ..|> PaperBook
+PaperBookImpl ..|> ShippableBook
+ShowcaseBookImpl ..|> ShowcaseBook
+
+EBookFactory - -> EBookImpl : creates
+PaperBookFactory - -> PaperBookImpl : creates
+ShowcaseBookFactory - -> ShowcaseBookImpl : creates
+
+InventoryService - -> Book
+InventoryService - -> MailService
+InventoryService - -> ShippingService
+InventoryService - -> Customer
+
+
+MailService - -> EBook
+ShippingService - -> PaperBook
+
+QuantumBookstoreFullTest - -> InventoryService
+QuantumBookstoreFullTest - -> Customer
+QuantumBookstoreFullTest - -> Book
+
+Main - -> QuantumBookstoreFullTest
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
