@@ -22,7 +22,7 @@ public class ShippingService {
             for (Book item : Books) {
                 System.out.println("- Shipping: " + item.getTitle());
             }
-            System.out.println("✅ All items shipped successfully.");
+            System.out.println("All items shipped successfully.");
         }
         else {
             System.out.println("books must be paper book");

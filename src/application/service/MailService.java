@@ -13,6 +13,6 @@ public class MailService {
 
         System.out.println("Sending e-books to: " + email);
         System.out.println("- Sent: " + book.getTitle());
-        System.out.println("✅ e-books sent successfully.");
+        System.out.println("e-books sent successfully.");
     }
 }
