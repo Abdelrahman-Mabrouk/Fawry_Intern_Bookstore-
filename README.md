@@ -90,32 +90,14 @@ javac -d . src/bootstrap/QuantumBookstoreFullTest.java
 java bootstrap.QuantumBookstoreFullTest
 ```
 
----
 
-## 💡 Example Usage
 
-```java
-InventoryService inventory = new InventoryService();
-
-// Create books
-PaperBookImpl paper = PaperBookFactory.createPaperBook(...);
-EBookImpl ebook = EBookFactory.createEBook(...);
-
-// Add books
-inventory.addBook(paper);
-inventory.addBook(ebook);
-
-// Buy book
-Customer customer = new Customer("John", "john@mail.com", "Cairo");
-inventory.buyBook(paper.getIsbn(), 2, customer.getEmail(), customer.getAddress(), true);
-```
 ## 💡 Example Output
 
-```
-Starting shipment to: Cairo
-The Cost of Shipping is: 5.0
-Clean Code shipped successfully.
-```
+
+![Example OUtput](./assets/Exaple-Output.png)
+
+`
 ---
 
 ## 🧱 Architecture Overview
@@ -169,6 +151,8 @@ To extend the system:
 ```
 ⛰️ UML Overview:
 ```
+
+## 📊 UML Diagram
 
 ![UML Diagram](./assets/Class-Diagram.svg)
 
