@@ -97,7 +97,6 @@ java bootstrap.QuantumBookstoreFullTest
 
 ![Example OUtput](./assets/Exaple-Output.png)
 
-`
 ---
 
 ## 🧱 Architecture Overview
